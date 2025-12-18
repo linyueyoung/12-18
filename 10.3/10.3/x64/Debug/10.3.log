@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\tommy\Desktop\新增資料夾 (2)\10.3\10.3\Source.cpp(34,15): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  LINK : 最後的累加連結找不到或未建置 C:\Users\tommy\Desktop\新增資料夾 (2)\10.3\x64\Debug\10.3.exe，正在執行完整連結
+  10.3.vcxproj -> C:\Users\tommy\Desktop\新增資料夾 (2)\10.3\x64\Debug\10.3.exe
